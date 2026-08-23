@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ojdbc12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../oraclepki-21.9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../osdt_core-21.9.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
