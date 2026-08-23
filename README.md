@@ -49,7 +49,7 @@ Pré-requisitos
  * Dependências JDBC e de segurança da Oracle vinculadas ao projeto.
 Passos para Configuração
  * Clonar o repositório:
-   git clone [https://github.com/seu-usuario/sistema-cadastro-oracle-jdbc.git](https://github.com/seu-usuario/sistema-cadastro-oracle-jdbc.git)
+   git clone https://github.com/twyderik/sistema-cadastro-oracle-jdbc.git
 
  * Configurar as Credenciais e Wallet:
    * Descompacte o arquivo .zip da sua Oracle Wallet em um diretório local.
@@ -68,4 +68,4 @@ private static final String SENHA = "SUA_SENHA";
 Este repositório segue boas práticas de segurança:
  * Senhas e chaves de acesso reais não são expostas no código-fonte.
  * Arquivos de certificados (.sso, .p12, .ora) e compilações locais estão ignorados via .gitignore.
-Desenvolvido por Kawã Derik | Conecte-se comigo no LinkedIn
+Desenvolvido por Kawã Derik | Conecte-se comigo no LinkedIn: www.linkedin.com/in/kawa-derik-costa-macedo-6ab16a3a9
